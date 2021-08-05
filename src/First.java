@@ -26,6 +26,12 @@ public class First
 		System.out.println("architectkacode");
 		System.out.println("One more architectkacode");
 	}
+	@Test
+	public void secondarchitectkacode()
+	{
+		System.out.println("secondarchitectkacode");
+		System.out.println("One more secondarchitectkacode");
+	}
 
 
 }
