@@ -14,5 +14,11 @@ public class First
 		System.out.println("Second");
 		System.out.println("One more second");
 	}
+	@Test
+	public void third()
+	{
+		System.out.println("Third");
+		System.out.println("One more third");
+	}
 
 }
