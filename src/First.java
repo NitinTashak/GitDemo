@@ -20,5 +20,12 @@ public class First
 		System.out.println("Third");
 		System.out.println("One more third");
 	}
+	@Test
+	public void architectkacode()
+	{
+		System.out.println("architectkacode");
+		System.out.println("One more architectkacode");
+	}
+
 
 }
